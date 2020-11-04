@@ -6,6 +6,8 @@
 1. Readme.md (*this file*)
 2. Google colab notebook for building, training and testing a Convolutional Neural Network on the SVHN dataset.
 3. Trained model
+4. Misc
+   * SVHN Overview Image
 
 ## Libraries used
 1. Python programming language is used 
