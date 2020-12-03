@@ -14,4 +14,4 @@
 3. Python libraries including numpy, etc
 
 ## Notes
-1. Purpose of this project is to demonstrate how to build, train and evaluate a simple CNN model. 
+1. Purpose of this project is to demonstrate how to build, train and evaluate a simple CNN model for classifying images in the cifar-10 dataset
