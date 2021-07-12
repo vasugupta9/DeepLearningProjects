@@ -11,4 +11,4 @@ This repository contains Google Collaboratory Notebooks for Deep Learning and Co
 <a href="StreetViewHouseNumbers_Classifier/" title="Image Classifier for The Street View House Numbers (SVHN) Dataset"> <img src="misc/SVHN_Overview_Image.png" alt="SVHN_Overview_Image" width="250"/> </a>
 <a href="CIFAR10_Image_Classifier/" title="A Simple CNN Image Classifier for Cifar-10 dataset"> <img src="misc/cifar10_img.png" alt="CIFAR10_Overview_Image" width="250"/> </a>
 <a href="ConvolutionalNeuralNetworkVisualizer/" title="Convolutional Neural Network Visualizer"> <img src="misc/cool_cat.jpg" alt="Cool_Cat_Overview_Image" width="250"/> </a>
-<a href="TransferLearningResnet/" title="Transfer Learning example using ResNet-50 architecture"> <img src="misc/transfer_learning_resnet.png" alt="Overview_Image" width="250"/> </a>
+<a href="TransferLearningResnet/" title="Transfer Learning example using ResNet-50 architecture"> <img src="misc/transfer_learning_resnet.jpg" alt="Overview_Image" width="250"/> </a>
