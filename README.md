@@ -12,3 +12,5 @@ This repository contains Google Collaboratory Notebooks for Deep Learning and Co
 <a href="CIFAR10_Image_Classifier/" title="A Simple CNN Image Classifier for Cifar-10 dataset"> <img src="misc/cifar10_img.png" alt="CIFAR10_Overview_Image" width="250"/> </a>
 <a href="ConvolutionalNeuralNetworkVisualizer/" title="Convolutional Neural Network Visualizer"> <img src="misc/cool_cat.jpg" alt="Cool_Cat_Overview_Image" width="250"/> </a>
 <a href="TransferLearningResnet/" title="Transfer Learning example using ResNet-50 architecture"> <img src="misc/cifar10_img.png" alt="Overview_Image" width="250"/> </a>
+
+<a href="NeuralStyleTransfer/" title="Neural Style Transfer Using TensorFlow"> <img src="misc/neural_style_transfer.png" alt="Style Transferred Image" width="250"/> </a>
