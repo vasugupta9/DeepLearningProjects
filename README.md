@@ -13,4 +13,4 @@ This repository contains Google Collaboratory Notebooks for Deep Learning and Co
 <a href="ConvolutionalNeuralNetworkVisualizer/" title="Convolutional Neural Network Visualizer"> <img src="misc/cool_cat.jpg" alt="Cool_Cat_Overview_Image" width="250"/> </a>
 <a href="TransferLearningResnet/" title="Transfer Learning example using ResNet-50 architecture"> <img src="misc/cifar10_img.png" alt="Overview_Image" width="250"/> </a>
 
-<a href="NeuralStyleTransfer/" title="Neural Style Transfer Using TensorFlow"> <img src="misc/neural_style_transfer.png" alt="Style Transferred Image" width="250"/> </a>
+<a href="NeuralStyleTransfer/" title="Neural Style Transfer Using TensorFlow"> <img src="misc/neural_style_transfer.png" alt="Style Transferred Image" width="500" height="250"/> </a>
