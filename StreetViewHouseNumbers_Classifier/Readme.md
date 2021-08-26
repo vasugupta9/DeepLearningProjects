@@ -1,6 +1,7 @@
 # This project is an Image Classifier for the Street View House Numbers (SVHN) Dataset obtained from house numbers in Google Street View images.
 
-![SVHN overview image](SVHN_Overview_Image.png)
+![SVHN overview image](SVHN_Overview_Image.png)   
+[*Image Source*](http://ufldl.stanford.edu/housenumbers/)
 
 ## Project folder includes
 1. Readme.md (*this file*)
