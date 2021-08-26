@@ -1,6 +1,7 @@
 # This project is a Convolutional Neural Network Visualizer for visualizing outputs from inner convolutional layers within a CNN model.
 
-![Example Cool Cat Image](https://i.pinimg.com/originals/73/fd/d4/73fdd4752a176af8f388b31a67e93d87.jpg)
+![Example Cool Cat Image](cool_cat.jpg)   
+[*Image Source*](https://i.pinimg.com/originals/73/fd/d4/73fdd4752a176af8f388b31a67e93d87.jpg)
 
 ## Project folder includes
 1. Readme.md (this file)
