@@ -11,4 +11,4 @@
 3. Other Python libraries including numpy, etc
 
 ## Notes 
-1. <a href='https://gvasu.medium.com/recognizing-400-different-activities-in-videos-using-python-and-opencv-ee59cc6d61f6' > Blog post ;link </a> 
+1. <a href='https://gvasu.medium.com/recognizing-400-different-activities-in-videos-using-python-and-opencv-ee59cc6d61f6' > Link </a> to medium blog post with more details 
