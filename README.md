@@ -9,3 +9,4 @@ This repo contains code for some of my computer vision and deep learning project
 | [Convolutional Neural Network Visualizer](ConvolutionalNeuralNetworkVisualizer/) | 
 | [Transfer Learning example using ResNet-50 architecture](TransferLearningResnet/) | 
 | [Neural Style Transfer using TensorFlow](NeuralStyleTransfer/) [[ Blog ]](https://medium.com/@vasu.gupta9/neural-style-transfer-using-tensorflow-7e0f3e789e0c) | 
+| [Video Activity Recognition using Pretrained 3D ResNet model](VideoActivityRecognition3DResnet/) |
