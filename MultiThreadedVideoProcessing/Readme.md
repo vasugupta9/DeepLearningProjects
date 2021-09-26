@@ -1,4 +1,4 @@
-# Multi-threaded Video Processing in Python for Improving FPS (Frames Per Second)
+# Multi-threading in Python for faster video processing 
 1. Add ...
   
 ## Programming language and Libraries used
