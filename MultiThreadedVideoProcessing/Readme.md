@@ -1,4 +1,4 @@
-# Multi-threading in Python for faster video processing 
+# Multi-threading in Python for Faster Video Processing 
 1. Add ...
   
 ## Programming language and Libraries used
