@@ -34,10 +34,6 @@ class WebcamStream :
         self.stopped = False
         self.t.start() 
 
-    # method called to stop reading frames 
-    def stop(self):
-        self.stopped = True 
-
     # method for reading next frame 
     def update(self):
         while True :
@@ -46,12 +42,18 @@ class WebcamStream :
             self.grabbed , self.frame = self.vcap.read()
             if self.grabbed is False :
                 print('[Exiting] No more frames to read')
-                self.stop()
+                self.stopped = True
                 break 
+        self.vcap.release()
 
     # method for returning latest read frame 
     def read(self):
         return self.frame
+
+    # method called to stop reading frames 
+    def stop(self):
+        self.stopped = True 
+
 
 # initializing and starting multi-threaded webcam capture input stream 
 webcam_stream = WebcamStream(stream_id=0) #  stream_id = 0 is for primary camera 
@@ -76,6 +78,7 @@ while True :
     if key == ord('q'):
         break
 end = time.time()
+webcam_stream.stop() # stop the webcam stream 
 
 # printing time elapsed and fps 
 elapsed = end-start
