@@ -7,7 +7,6 @@
    * deploy.prototxt.txt - defines model architecture 
    * res10_300x300_ssd_iter_140000.caffemodel - contains trained model weights 
 6. Model files can also be directly downloaded from OpenCV repository. Useful links: <a href='https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector'> Link1 </a> <a href='https://github.com/opencv/opencv/tree/master/samples/dnn'> Link2 </a> <a href='https://github.com/opencv/opencv/blob/master/samples/dnn/models.yml'> Link3 </a>
-7. <a href='' > Link </a> to medium blog post with more details [TBD]
   
 ## Programming language and libraries used
 1. Python programming language
